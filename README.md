@@ -143,7 +143,7 @@
 <br/>
 <h1>Contáctame</h1>
 
-[![LinkedIn](./linkedinShield.svg)](https://www.linkedin.com/in/leonardo-esteban-pabón-restrepo-18826419b) [![WhatsApp](https://img.shields.io/badge/WhatsApp-Enviar%20mensaje-25D366?logo=whatsapp&logoColor=white)](https://wa.me/573215650182) [![Gmail](https://img.shields.io/badge/Gmail-Enviar%20correo-D14836?logo=gmail&logoColor=white)](mailto:pabonleonardo48@gmail.com)
+[![LinkedIn](./linkedinShield.svg)](https://www.linkedin.com/in/leonardo-esteban-pabón-restrepo-18826419b) [![WhatsApp](https://img.shields.io/badge/WhatsApp-Enviar%20mensaje-25D366?logo=whatsapp&logoColor=white)](https://wa.me/573205186835) [![Gmail](https://img.shields.io/badge/Gmail-Enviar%20correo-D14836?logo=gmail&logoColor=white)](mailto:pabonleonardo48@gmail.com)
 
 
 
