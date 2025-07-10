@@ -142,6 +142,8 @@
 </p>
 <br/>
 <h1>Contáctame</h1>
-[![LinkedIn](./linkedinShield.svg)]www.linkedin.com/in/leonardo-esteban-pabón-restrepo-18826419b)
+[![LinkedIn](./linkedinShield.svg)](https://www.linkedin.com/in/leonardo-esteban-pabón-restrepo-18826419b)
+
+
 
 
