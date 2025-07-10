@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="20" role="img" aria-label="LinkedIn: leo-p">
+  <linearGradient id="s" x2="0" y2="100%">
+    <stop offset="0" stop-color="#fff" stop-opacity=".1"/>
+    <stop offset="1" stop-opacity=".1"/>
+  </linearGradient>
+  <mask id="m">
+    <rect width="180" height="20" rx="3" fill="#fff"/>
+  </mask>
+  <g mask="url(#m)">
+    <rect width="70" height="20" fill="#0077B5"/> <!-- LinkedIn blue -->
+    <rect x="70" width="110" height="20" fill="#555"/>
+    <rect width="180" height="20" fill="url(#s)"/>
+  </g>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="11">
+    <!-- LinkedIn logo -->
+    <text x="10" y="15" font-weight="bold" font-size="12">in</text>
+    <text x="45" y="15">LinkedIn</text>
+    <text x="125" y="15">leo-p</text>
+  </g>
+</svg>
